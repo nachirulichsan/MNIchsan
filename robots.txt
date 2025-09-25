@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mnichsan.my.id/sitemap.xml
